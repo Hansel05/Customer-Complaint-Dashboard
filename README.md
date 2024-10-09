@@ -1,8 +1,7 @@
 # Customer Complaint Dashboard Project
-This project involves analyzing a dataset of complaints to gain insights into customer feedback, identify key trends, and suggest improvements based on the analysis.
 
 ## Project Overview
-The objective of this project is to analyze the dataset of customer complaints and generate useful insights. We will process, clean, and visualize the data to help identify the most common complaints and patterns over time.
+This project involves analyzing a dataset of complaints to gain insights into customer feedback, identify key trends, and suggest improvements based on the analysis.
 
 ## Dataset Description
 The dataset used in this project is stored in complaints_Full Data.csv and State Map_Full Data.csv.
