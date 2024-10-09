@@ -1,4 +1,4 @@
-# Complaint Data Analysis Project
+# Customer Complaint Dashboard Project
 This project involves analyzing a dataset of complaints to gain insights into customer feedback, identify key trends, and suggest improvements based on the analysis.
 
 ## Project Overview
